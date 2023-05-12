@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/visual-game-solver-client/static/css/main.0e5cc006.css",
+    "main.js": "/visual-game-solver-client/static/js/main.7746f4b0.js",
+    "index.html": "/visual-game-solver-client/index.html",
+    "main.0e5cc006.css.map": "/visual-game-solver-client/static/css/main.0e5cc006.css.map",
+    "main.7746f4b0.js.map": "/visual-game-solver-client/static/js/main.7746f4b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e5cc006.css",
+    "static/js/main.7746f4b0.js"
+  ]
+}
