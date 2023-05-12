@@ -1,0 +1,15 @@
+.option {
+    margin: 3px;
+}
+
+.mainNabvar {
+    margin-top: 20px;
+    display: flex;
+    padding-left: 15px;
+}
+
+.ulContainer {
+    margin-top: 7px;
+    margin-left: 35%;
+
+}

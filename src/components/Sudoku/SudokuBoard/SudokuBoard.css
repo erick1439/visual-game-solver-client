@@ -1,0 +1,9 @@
+.board{
+  position:relative;
+  width: 600px;
+  height: 600px;
+  display: grid;
+  grid-template-columns: repeat(1,1fr);
+  grid-template-rows: repeat(9,1fr);
+  border:1px solid black
+}
